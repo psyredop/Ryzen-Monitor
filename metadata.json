@@ -1,0 +1,9 @@
+{
+    "uuid": "ryzen-monitor@psyredop",
+    "name": "Ryzen Monitor",
+    "description": "Monitor GPU, CPU and RAM",
+    "version": 1.3,
+    "shell-version": ["49", "50", "51"],
+    "stylesheet": "stylesheet.css",
+    "url": "https://github.com/psyredop/Ryzen-Monitor"
+}
